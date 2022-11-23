@@ -4,4 +4,5 @@
 
 - 📫 How to reach me: xuyiyangwing@gmail.com
 - ❤ Love JavaScript/TypeScript and React.js
+- 🍹 Good at CSS / State Management / FE infra
 - 🦀Try to learn Rust, CDRT and many other cool things
