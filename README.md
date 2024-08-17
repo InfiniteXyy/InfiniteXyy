@@ -5,4 +5,4 @@
 - 📫 How to reach me: xuyiyangwing@gmail.com
 - ❤ Love JavaScript/TypeScript and React.js
 - 🍹 Good at CSS / State Management / FE infra
-- 🦀Try to be a game developer
+- 🦀 Try to be a game developer
